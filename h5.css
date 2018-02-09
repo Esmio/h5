@@ -26,7 +26,7 @@ html,body,.root {
     }
 }
 @media (min-height: 2000px) {
-    input.name {
+    /* input.name {
         width: 4.4rem;
         height: 1.1rem;
     }
@@ -34,10 +34,10 @@ html,body,.root {
         width: 2.8rem;
         height: 2.8rem;
         transform-origin: 0 2.8rem;
-    }
+    } */
 }
 @media (min-height: 2209px) {
-    input.name {
+    /* input.name {
         width: 4.8rem;
         height: 1.2rem;
     }
@@ -45,7 +45,7 @@ html,body,.root {
         width: 2.8rem;
         height: 2.9rem;
         transform-origin: 0 2.9rem;
-    }
+    } */
 }
 .root {
     display: flex;
